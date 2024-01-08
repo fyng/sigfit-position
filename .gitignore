@@ -16,3 +16,7 @@ src/include/models.hpp
 src/include/models.hpp.bak
 tools/make_cpp.Rout
 src/RcppExports.cpp
+
+# Large data
+data/impact_nsclc_mm/*.txt
+data/tracerx_mm/*.txt
